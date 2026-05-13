@@ -75,15 +75,9 @@ Key insight:
 - GNN clusters produce more **stable risk-adjusted structure**
 - Baseline clustering may achieve higher raw returns but is less consistent
 
-## 📂 Project Structure
 
-```
-├── fintech_project.py
-├── README.md
-└── requirements.txt
-```
 
-## ⚙️ Installation & Usage
+## To clone,
 
 ### 1. Clone repository
 ```bash
@@ -95,10 +89,6 @@ git clone https://github.com/your-username/gnn-financial-clustering.git
 pip install torch torch-geometric yfinance pandas matplotlib scikit-learn
 ```
 
-### 3. Run project
-```bash
-python fintech_project.py
-```
 
 ## 🧠 Future Improvements
 
